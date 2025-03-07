@@ -1,5 +1,5 @@
 <h2> Hi 👋🏼 I'm Nuga</h2>
-<img align='right' src="https://cdn.jsdelivr.net/gh/nugaBox/nugabox.github.io/assets/img/common/about.jpg" width="300" style="border-radius:10px">
+<img align='right' src="https://cdn.jsdelivr.net/gh/nugaBox/nugabox.github.io/assets/img/common/about.jpg" width="300">
 <h3>A Classy Full Stack Developer with Sparkling Ideas</h3>
 
 <p>I'm <strong>INTJ</strong> - The Architect.
@@ -25,11 +25,13 @@ function thisIsNuga() {
   nugaBox.specialMove = "📚 Exceptional Documentation & Organization Skills";
   nugaBox.mainWeapon = ["⚡️ Mac Studio", "💥 HHKB", "☄️ Razer Pro Click"];
   nugaBox.favoriteLanguage = ["💎 Javascript", "🐹 Golang", "🥸 Python"];
-  nugaBox.lovedLanguage = [...nugaBox.favoriteLanguage, "💎 Crystal"]; // Use spread operator to avoid modifying the original array
+  // Use spread operator to avoid modifying the original array
+  nugaBox.lovedLanguage = [...nugaBox.favoriteLanguage, "💎 Crystal"];
   return nugaBox;
 }
 
-console.log(thisIsMe()); // Example to see the output. Remove this line if you just need the function.
+// Example to see the output. Remove this line if you just need the function.
+console.log(thisIsMe());
 ```
 
 ### My Tech Stack, and I'm grateful for...
