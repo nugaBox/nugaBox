@@ -9,6 +9,7 @@
 > - Introduction : https://portfolio.nugabox.com
 
 [![Open NUGABOX](./assets/open-nugabox.svg)](https://nugabox.io)
+<<<<<<< HEAD
 
 <p>
   <a href="mailto:root@nugabox.com"><img src="./assets/icons/mail.svg" width="24" height="24" alt="Email"></a>
@@ -19,3 +20,5 @@
   &nbsp;
   <a href="https://www.linkedin.com/in/nugabox/"><img src="./assets/icons/linkedin.svg" width="24" height="24" alt="LinkedIn"></a>
 </p>
+=======
+>>>>>>> origin/main
