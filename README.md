@@ -1,3 +1,5 @@
+[![Open NUGABOX](./assets/open-nugabox.svg)](https://nugabox.io)
+
 <h2> Hello, I'm NUGA 🤔</h2>
 <img align='right' src="https://cdn.jsdelivr.net/gh/nugaBox/nugabox.github.io/assets/img/common/about.jpg" width="33%">
 <h3>Always Building, Always Learning</h3>
