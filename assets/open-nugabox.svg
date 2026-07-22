@@ -1,19 +1,81 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="250" height="40" viewBox="0 0 250 40" role="img" aria-label="Open NUGABOX">
-  <rect width="250" height="40" rx="6" fill="#24292f"/>
+<svg
+  xmlns="http://www.w3.org/2000/svg"
+  width="164"
+  height="36"
+  viewBox="0 0 164 36"
+  role="img"
+  aria-labelledby="title"
+>
+  <title id="title">Open NUGABOX</title>
 
-  <g transform="translate(12,8)" stroke="#ffffff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" fill="none">
+  <style>
+    .icon-area,
+    .text-area {
+      transition: fill 160ms ease;
+    }
+
+    svg:hover .icon-area {
+      fill: #5A616E;
+    }
+
+    svg:hover .text-area {
+      fill: #484D58;
+    }
+  </style>
+
+  <!-- 전체 배경 -->
+  <rect
+    width="164"
+    height="36"
+    rx="6"
+    fill="#282B34"
+  />
+
+  <!-- 아이콘 영역 -->
+  <path
+    class="icon-area"
+    d="M6 0h34v36H6a6 6 0 0 1-6-6V6a6 6 0 0 1 6-6Z"
+    fill="#4A505C"
+  />
+
+  <!-- 텍스트 영역 -->
+  <path
+    class="text-area"
+    d="M40 0h118a6 6 0 0 1 6 6v24a6 6 0 0 1-6 6H40Z"
+    fill="#3A3E48"
+  />
+
+  <!-- 구분선 -->
+  <path
+    d="M40 0v36"
+    stroke="#59606C"
+    stroke-width="1"
+  />
+
+  <!-- 박스 아이콘 -->
+  <g
+    transform="translate(10 8) scale(.8333)"
+    fill="none"
+    stroke="#FFFFFF"
+    stroke-width="2"
+    stroke-linecap="round"
+    stroke-linejoin="round"
+  >
     <path d="M21 8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16Z"/>
     <path d="m3.3 7 8.7 5 8.7-5"/>
     <path d="M12 22V12"/>
   </g>
 
+  <!-- 문구 -->
   <text
-    x="48"
-    y="26"
-    fill="#ffffff"
-    font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif"
-    font-size="14"
-    font-weight="600">
+    x="50"
+    y="18"
+    dominant-baseline="middle"
+    fill="#FFFFFF"
+    font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif"
+    font-size="13"
+    font-weight="600"
+  >
     Open NUGABOX
   </text>
 </svg>
