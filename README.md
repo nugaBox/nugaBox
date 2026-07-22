@@ -1,6 +1,12 @@
 <h2>Hello, I'm NUGA 🤔</h2>
 
+<<<<<<< HEAD
 <img src="https://cdn.jsdelivr.net/gh/nugaBox/nugabox.github.io/assets/img/common/about.jpg" width="280" alt="Nuga profile">
+=======
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/nugaBox/nugabox.github.io/assets/img/common/about.jpg" width="280" alt="Nuga profile">
+</p>
+>>>>>>> origin/main
 
 <h3>Always Building, Always Learning</h3>
 
