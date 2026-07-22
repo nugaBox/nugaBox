@@ -4,8 +4,6 @@
 
 <h3>Always Building, Always Learning</h3>
 
-**Nuga Jang**
-
 - Web/Mobile Application Developer
 - MBTI : `INTJ`
 - Introduction : [Portfolio](https://portfolio.nugabox.com)
