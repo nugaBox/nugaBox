@@ -1,8 +1,8 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="72" height="22" viewBox="0 0 72 22" role="img" aria-label="email">
-  <rect x="0.5" y="0.5" width="71" height="21" rx="11" fill="none" stroke="#C5C5C5" stroke-width="1" stroke-dasharray="3 2"/>
-  <g transform="translate(8 5)" fill="none" stroke="#C5C5C5" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round">
+  <rect x="0.5" y="0.5" width="71" height="21" rx="11" fill="none" stroke="#6B6B6B" stroke-width="1"/>
+  <g transform="translate(8 5)" fill="none" stroke="#6B6B6B" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round">
     <path d="m11 3.5-4.5 2.86a1 1 0 0 1-1 0L1 3.5"/>
     <rect x="1" y="2" width="10" height="8" rx="1"/>
   </g>
-  <text x="28" y="14.5" fill="#C5C5C5" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="11">email</text>
+  <text x="28" y="14.5" fill="#6B6B6B" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="11">email</text>
 </svg>
