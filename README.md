@@ -1,6 +1,6 @@
 <h2>Hello, I'm NUGA 🤔</h2>
 
-<img src="https://cdn.jsdelivr.net/gh/nugaBox/nugabox.github.io/assets/img/common/about.jpg" width="280" alt="Nuga profile">
+<img align="right" src="https://cdn.jsdelivr.net/gh/nugaBox/nugabox.github.io/assets/img/common/about.jpg" width="33%" alt="Nuga profile">
 
 <h3>Always Building, Always Learning</h3>
 
@@ -9,7 +9,7 @@
 - Introduction : [Portfolio](https://portfolio.nugabox.com)
 - Technology Blog : [NUGAWIKI](https://wiki.nugabox.com)
 
-<br>
+<br clear="both">
 
 [![Open NUGABOX](./assets/open-nugabox.svg)](https://nugabox.io)
 
