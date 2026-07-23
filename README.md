@@ -4,7 +4,7 @@
 
 <h3>Always Building, Always Learning</h3>
 
-- Web/Mobile Application Developer
+- Web/iOS Developer
 - MBTI : `INTJ`
 - Introduction : [Portfolio](https://portfolio.nugabox.com)
 - Technology Blog : [NUGAWIKI](https://wiki.nugabox.com)
